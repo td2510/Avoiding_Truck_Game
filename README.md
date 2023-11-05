@@ -2,7 +2,9 @@
 Cài đặt môi trường lập trình
 
 •	Giải nén file BGI.zip ta được các file sau: graphics.h, libbgi.a, winbgim.h.
+
 •	Copy graphics.h và winbgim.h vào thư mục trình dịch của IDE lập trình (trong project này sử dụng Embarcadero Dev-C++).
+
 •	Nếu sử dụng Embarcadero Dev-C++, copy graphics.h và winbgim.h vào thư mục “include” theo đường dẫn như hình dưới.
 ![image](https://github.com/td2510/Avoiding_Truck_Game/assets/111385453/cf100cfe-13cd-4a4c-b513-75529567ad9a)
 
