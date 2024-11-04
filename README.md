@@ -12,7 +12,7 @@ Setting up the programming environment
 ![image](https://github.com/td2510/Avoiding_Truck_Game/assets/111385453/cf100cfe-13cd-4a4c-b513-75529567ad9a)
 
 
-•	Copy libbgi.a vào thư mục “lib” cùng vị trí với thư mục “include” bên trên.
+•	Copy libbgi.a into the “lib” folder in the same location as the “include” folder above.
 
 ![image](https://github.com/td2510/Avoiding_Truck_Game/assets/111385453/c857cbd7-cce0-43a7-a4f2-2626eb80234d)
 
@@ -43,4 +43,4 @@ Game interface:
 
 
 
-Link: https://www.youtube.com/watch?v=QHBNNf41Ya4
+Demo: https://www.youtube.com/watch?v=QHBNNf41Ya4
